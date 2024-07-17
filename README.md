@@ -21,3 +21,11 @@ I have also obtained one more certificate by Stanford University and Deep Learni
 
 (In This Github Repo I have uploaded all the Graded Coding Assignment)
 
+## Certificate 1)
+
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/cf3e11f1-b6d0-460e-995f-ed7be37c7287">
+
+
+
+## Certificate 2)
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/0f1d2ef2-d543-49ab-9cac-9e5f1821bfc3">
